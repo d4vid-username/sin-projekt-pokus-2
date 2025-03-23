@@ -83,6 +83,7 @@ a {
     background-color: #343232;
     color: aliceblue;
     visibility: visible;
+    opacity: .75;
 }
 
 @media only screen and (orientation: portrait)  {
