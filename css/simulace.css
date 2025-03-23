@@ -38,6 +38,9 @@ img {
     height: 25vh;
     bottom: 0;
     z-index: 5;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 #plyn { right: 0; }
 #brzda { left: 0; }
